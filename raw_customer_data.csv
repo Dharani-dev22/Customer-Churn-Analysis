@@ -1,0 +1,8 @@
+CustomerID,Gender,Tenure_Months,Monthly_Charges,Total_Charges,ChurnStatus,Join_Date
+1001,Male,12,55.50,666.00,No,2025-01-15
+1002,Female,,75.00,800.00,Yes,2025-02-20
+1003,Male,5,N/A,300.00,Yes,15-03-2025
+1001,Male,12,55.50,666.00,No,2025-01-15
+1004,Female,24,105.20,2524.80,No,2024-06-10
+1005,Male,1,,15.00,Yes,2026-01-05
+1006,F,8,45.00,360.00,No,2025-08-11
