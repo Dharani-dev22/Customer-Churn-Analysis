@@ -2,7 +2,8 @@
 
 📊 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/pondharani.devendra/viz/CustomerChurnAnalysis_17825715777880/Dashboard1?publish=yes)**
 
-![Tableau Dashboard Screenshot](dashboard_screenshot.png)
+![Tableau Dashboard Screenshot]<img width="1920" height="1200" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/f9996172-82de-434f-8517-4e04f6724d88" />>
+)
 
 ## 📝 Project Overview
 Customer churn is one of the most critical metrics for subscription-based businesses. The objective of this project was to analyze a dataset of customer profiles to determine the overall churn rate and identify the primary financial and behavioral drivers causing customers to cancel their service. 
